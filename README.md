@@ -1,2 +1,2 @@
 # bookbot
-BookBot is my first project!
+Bot to provide text snippets from my favorite books!
